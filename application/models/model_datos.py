@@ -3,10 +3,10 @@ import web
 Parametros de configuracion para conectarse a una base de datos
 MySQL o MariaDB
 '''
-db_host = 'localhost'
-db_name = 'practica6'
-db_user = 'root'
-db_pw = 'Abcdef1'
+db_host = 'ehc1u4pmphj917qf.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
+db_name = 'q7ac5p7jf0wsp8iz'
+db_user = 'ug02a4kwu9wlhtdj'
+db_pw = 'bhskxq1ob77vwe9u'
 db_port = 3306
 
 db = web.database(
